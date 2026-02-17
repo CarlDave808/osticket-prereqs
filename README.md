@@ -75,5 +75,19 @@ Launch IIS Manager with administrative privileges. Register PHP by setting up th
 
 Navigate to the osTicket-Installation-Files folder, extract osTicket-v1.15.8.zip, and copy the upload folder to C:\inetpub\wwwroot. Once copied, rename the upload to osTicket.
 
+<img width="655" height="922" alt="Screenshot 2026-02-16 190558" src="https://github.com/user-attachments/assets/5bb4bcda-98e3-4044-bc9a-7969e4b992b8" />
 
+Go back to IIS Manager and restart the server. To enable the required PHP extensions, navigate to Sites->Default->osTicket and open PHP Manager. Click "Enable or disable and extension" and activate php_intl.dll, php_opcache.dll, and php_imap.dll. Finally, refresh the osTicket web server to confirm that the Intl Extension is enabled.
+
+<img width="610" height="577" alt="Screenshot 2026-02-16 190815" src="https://github.com/user-attachments/assets/d5a15404-bedf-47c5-8a75-a67bff95b029" />
+
+Go to C:\inetpub\wwwroot\osTicket\include and rename ost-sampleconfig.php to ost-config.php within the same folder.
+
+<img width="839" height="549" alt="Screenshot 2026-02-16 202459" src="https://github.com/user-attachments/assets/ce3a905e-ea8a-46b5-8b17-d77b32b2c7e3" />
+
+Set the correct permissions for ost-config.php by right clicking the file and choosing Properties. Under the security tab, disable inheritance, remove all existing permissions, and give Everyone full control.
+
+<img width="756" height="828" alt="Screenshot 2026-02-16 190950" src="https://github.com/user-attachments/assets/cae273fd-4652-41d8-bf1c-c1fdf1bb1df3" />
+
+Finally, complete the osTicket setup in your browser by clicking Continue. Give your help desk a name of your choice and specify a default email address to recieve notifications for customer-submitted tickets.
 
