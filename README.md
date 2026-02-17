@@ -69,7 +69,11 @@ Use "root" as both the username and password for this lab environment, then clic
 
 Launch IIS Manager with administrative privileges. Register PHP by setting up the required configurations, then restart the server by choosing Restart within IIS Manager.
 
+<img width="706" height="159" alt="Screenshot 2026-02-16 190251" src="https://github.com/user-attachments/assets/b711b1ec-4e1f-4079-b58c-79e953b896df" />
 
+<img width="612" height="196" alt="Screenshot 2026-02-16 190339" src="https://github.com/user-attachments/assets/519a5d37-f054-4291-9ba8-fcc6c2073962" />
+
+Navigate to the osTicket-Installation-Files folder, extract osTicket-v1.15.8.zip, and copy the upload folder to C:\inetpub\wwwroot. Once copied, rename the upload to osTicket.
 
 
 
