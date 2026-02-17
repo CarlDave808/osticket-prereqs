@@ -42,3 +42,15 @@ After connecting to the VM, enable Internet Information Services(IIS) by opening
 <img width="456" height="376" alt="Screenshot 2026-02-16 184658" src="https://github.com/user-attachments/assets/2c7bc4de-ff14-47b1-a122-50aba7757750" />
 
 Next, use the provided download link to download all required files for installing and running osTicket. Within the osTicket Installation folder, find PHP Manager and install it to continue with the setup process. https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD 
+
+<img width="456" height="354" alt="Screenshot 2026-02-16 184731" src="https://github.com/user-attachments/assets/9c645985-1738-487c-bbcd-7f7c6fec6206" />
+
+In the same folder, proceed with installing the Rewrite Module to further confifure the  enviroment.
+
+<img width="594" height="281" alt="Screenshot 2026-02-16 185037" src="https://github.com/user-attachments/assets/626da21f-892b-468c-91d2-80205485cc56" />
+
+<img width="560" height="398" alt="Screenshot 2026-02-16 185138" src="https://github.com/user-attachments/assets/e2615ba3-9b41-4cfd-bf0f-c003af8aea48" />
+
+Create a new folder at PHP. Then extract the contents of PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and place all the files into the C:\PHP directory.
+
+
