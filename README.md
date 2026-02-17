@@ -36,3 +36,10 @@ Connect to the virtual machine using Remote Desktop Protocol(RDP). In the Micros
 <img width="1035" height="184" alt="Screenshot 2026-02-16 183732" src="https://github.com/user-attachments/assets/bf2c16f2-a19f-4d46-84b7-8f07618e0a43" />
 
 Within the VM (osticket-vm), download the https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD and unzip it onto your desktop. The folder should be called “osTicket-Installation-Files”
+
+<img width="383" height="336" alt="Screenshot 2026-02-16 184350" src="https://github.com/user-attachments/assets/7f46ec2b-b1be-4f38-952b-a46f7b0ae0cf" />
+
+<img width="380" height="338" alt="Screenshot 2026-02-16 184515" src="https://github.com/user-attachments/assets/713f0018-f151-404e-98db-04d0a119793b" />
+
+After connecting to the VM, enable Internet Information Services(IIS) by opening the control Panel and selecting Turn Windows features on or off. Scroll through the list, find Internet Information Services (IIS), and check the box to enable it. Also enable CGI, go to World Wide Web Services -> Application Development Features -> [X] CGI
+
