@@ -17,11 +17,11 @@ This tutorial outlines the system requirements and walks you through the install
 
 <h2>List of Prerequisites</h2>
 
-  -Azure Virtual Machine
+- Azure Virtual Machine
 
-  -osTicket Installation files
+- osTicket Installation files
 
-  -Heidi SQL
+- Heidi SQL
 
 <h2>Installation Steps</h2>
 
