@@ -55,7 +55,7 @@ Create a new folder at PHP. Then extract the contents of PHP 7.3.8 (php-7.3.8-nt
 
 <img width="442" height="274" alt="Screenshot 2026-02-16 185327" src="https://github.com/user-attachments/assets/b112a17f-0ae4-4b45-8e8d-f02e1cd75bdd" />
 
-From the osTicket Installation folder, run VC_redist.x86.exe to install the required Visual C++ Redistributable componets needed for proper system functionality.
+From the osTicket Installation folder, run VC_redist.x86.exe to install the required Visual C++ Redistributable components needed for proper system functionality.
 
 <img width="454" height="358" alt="Screenshot 2026-02-16 185432" src="https://github.com/user-attachments/assets/94907e78-7a41-486b-bace-51c5008bd999" />
 
