@@ -53,4 +53,23 @@ In the same folder, proceed with installing the Rewrite Module to further confif
 
 Create a new folder at PHP. Then extract the contents of PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and place all the files into the C:\PHP directory.
 
+<img width="442" height="274" alt="Screenshot 2026-02-16 185327" src="https://github.com/user-attachments/assets/b112a17f-0ae4-4b45-8e8d-f02e1cd75bdd" />
+
+From the osTicket Installation folder, run VC_redist.x86.exe to install the required Visual C++ Redistributable componets needed for proper system functionality.
+
+<img width="454" height="358" alt="Screenshot 2026-02-16 185432" src="https://github.com/user-attachments/assets/94907e78-7a41-486b-bace-51c5008bd999" />
+
+From the osTicket Installation folder, run MySQL 5.5.62(mysql-5.5.62-win32.msi) to install and configure the MySQL database server.
+
+<img width="459" height="346" alt="Screenshot 2026-02-16 185816" src="https://github.com/user-attachments/assets/8a29a971-5e5b-4895-b83c-426522cba1a1" />
+
+Use "root" as both the username and password for this lab environment, then click execute.
+
+<img width="663" height="573" alt="Screenshot 2026-02-16 185959" src="https://github.com/user-attachments/assets/9b628049-c8e7-46e2-81a5-06c969cf8afe" />
+
+Launch IIS Manager with administrative privileges. Register PHP by setting up the required configurations, then restart the server by choosing Restart within IIS Manager.
+
+
+
+
 
