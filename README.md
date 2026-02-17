@@ -25,3 +25,6 @@ This tutorial outlines the system requirements and walks you through the install
 
 <h2>Installation Steps</h2>
 
+<img width="1002" height="469" alt="Screenshot 2026-02-16 183103" src="https://github.com/user-attachments/assets/aee1f675-f37e-4187-80f5-c5e937170966" />
+
+Create a resource group in Microsoft Azure called osTicket, then deploy a virtual machine inside that resource group. Select a Windows 10 Pro image for the VM and configure it with a minimum of 2 vCPUs. This virtual machine will be used as a practice environment.
