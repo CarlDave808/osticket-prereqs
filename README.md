@@ -45,7 +45,7 @@ Next, use the provided download link to download all required files for installi
 
 <img width="456" height="354" alt="Screenshot 2026-02-16 184731" src="https://github.com/user-attachments/assets/9c645985-1738-487c-bbcd-7f7c6fec6206" />
 
-In the same folder, proceed with installing the Rewrite Module to further confifure the  enviroment.
+In the same folder, proceed with installing the Rewrite Module to further configure the  enviroment.
 
 <img width="594" height="281" alt="Screenshot 2026-02-16 185037" src="https://github.com/user-attachments/assets/626da21f-892b-468c-91d2-80205485cc56" />
 
