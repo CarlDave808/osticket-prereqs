@@ -8,9 +8,11 @@ This tutorial outlines the system requirements and walks you through the install
 
 This is the osTicket series
 
-https://github.com/CarlDave808/post-install-config
+  - https://github.com/CarlDave808/post-install-config
 
-https://github.com/CarlDave808/osticket-prereqs
+  - https://github.com/CarlDave808/osticket-prereqs
+
+  - https://github.com/CarlDave808/ticket-lifecycle
 
 <h2>Environments and Technologies Used</h2>
 
